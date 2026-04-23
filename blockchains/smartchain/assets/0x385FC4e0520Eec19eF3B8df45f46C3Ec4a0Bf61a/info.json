@@ -1,0 +1,11 @@
+{
+  "name": "ANB Token",
+  "symbol": "ANB",
+  "type": "BEP20",
+  "decimals": 18,
+  "website": "https://anbcoin.org",
+  "description": "ANB Token",
+  "explorer": "https://bscscan.com/token/0x385FC4e0520Eec19eF3B8df45f46C3Ec4a0Bf61a",
+  "status": "active",
+  "id": "0x385FC4e0520Eec19eF3B8df45f46C3Ec4a0Bf61a"
+}
